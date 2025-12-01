@@ -178,8 +178,8 @@ Or open it directly in **Google Colab**.
 
 ## **Author**
 
-[Niyaz Ahmad Khan](mailto:https://www.linkedin.com/in/theniyazkhan/)
-[Eshrath Jahan Esha](mailto:https://www.linkedin.com/in/eshrath-esha-250b95282)
+[Niyaz Ahmad Khan](https://www.linkedin.com/in/theniyazkhan/)
+[Eshrath Jahan Esha](https://www.linkedin.com/in/eshrath-esha-250b95282)
 
 
 ---
