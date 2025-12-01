@@ -156,8 +156,8 @@ Below is a summary of their performance (sample template):
 ### **1️⃣ Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/student-performance-prediction.git
-cd student-performance-prediction
+git clone https://github.com/theniyazkhan/student_performance_prediction.git
+cd student_performance_prediction
 ```
 
 ### **2️⃣ Install dependencies**
