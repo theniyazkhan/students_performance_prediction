@@ -43,14 +43,12 @@ The project includes **EDA, preprocessing, model comparison, and evaluation**—
 ✔ Feature scaling (Standardization)
 ✔ One-hot encoding for categorical features
 ✔ Train-test split with stratification
-✔ **Six machine learning models trained:**
+✔ **Four machine learning models trained:**
 
 * Logistic Regression
-* K-Nearest Neighbors
 * Random Forest
-* Gradient Boosting Classifier
-* Support Vector Machine
-* Naive Bayes
+* Gradient Boosting Classifir
+* K-Nearest Neighbors
 
 ✔ Model evaluation using:
 
@@ -59,6 +57,8 @@ The project includes **EDA, preprocessing, model comparison, and evaluation**—
 * Recall
 * F1 Score
 * Confusion Matrix
+  
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/94baa8f9-0d62-4d43-9e2d-f594ae78db11" />
 
 ✔ Model comparison using a bar chart
 ✔ Identification of *best-performing model*
